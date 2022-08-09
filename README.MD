@@ -9,6 +9,8 @@ Version Actual: v1.2.2
 #####  Cabecera H5
 ######  Cabecera H6
 
+<img width="100%" src="funcionamiento.gif">
+
 # Underlines
 Underline 1
 -----------
